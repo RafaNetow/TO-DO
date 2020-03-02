@@ -1,2 +1,3 @@
 # TO-DO
-the main example when you wan learn some frontend framework is a TODO then i want "todo" a katas  with diferent framworks i hope that you enjoy this.
+the main example when you begin to learn some frontend framework is a TODO .....Then i decided make "todo" katas  with diferent framworks.
+
